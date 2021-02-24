@@ -7,3 +7,5 @@ Por ultimo esta el modelo con una RNN que se entrena con las canciones y "predic
 
 El modelo esta lejos de estar terminado. Los pasos que le faltarian seria en primer lugar introducir un valor de finalizacion de la cancion para que la red sepa diferenciar una de otra.
 Luego de finalizacion de frase para que tambien diferencie eso.
+
+Los excel con las canciones no los subi porque pesan mucho
